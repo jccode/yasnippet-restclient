@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: content-type form
+# key: ctform
+# --
+Content-Type: application/x-www-form-urlencoded
