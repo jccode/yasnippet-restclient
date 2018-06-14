@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name : var
+# key : trigger-key
+# keybinding : keybinding
+# expand-env : ()
+# contributor : 
+# expand-env : ()
+# key: var
+# --
+:${1:varname} = ${2:value}
